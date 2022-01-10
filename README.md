@@ -26,7 +26,7 @@ To install JoinTheRobloxGameToLinkYourAccount, you need to have the followings t
 
 ### Sync required code into roblox studio (using rojo)
 
-| :exclamation:  We assume you have rojo installed on your IDE and you know how to use it. If you don't please [Use the RBXM method](###Sync required code into roblox studio (using RBXM))   |
+| :exclamation:  We assume you know how to use . If you don't please [Use the RBXM method](##sync-required-code-into-roblox-studio-using-rbxm）   |
 |-----------------------------------------|
 
 ### Sync required code into roblox studio (using RBXM)
