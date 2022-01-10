@@ -26,8 +26,15 @@ To install JoinTheRobloxGameToLinkYourAccount, you need to have the followings t
 
 ### Sync required code into roblox studio (using rojo)
 
-| :exclamation:  We assume you know how to use . If you don't please [Use the RBXM method](#sync-required-code-into-roblox-studio-using-rbxm)  |
-|-----------------------------------------|
+| :exclamation:  We assume you know how to use rojo. If you don't please [Use the RBXM method](#sync-required-code-into-roblox-studio-using-rbxm)  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1. Head over to the ['Releases' page](https://github.com/antcar0929/JoinTheRobloxGameToLinkYourAccount/releases/) of the repo.
+2. Under 'Assets', click the `JRGTLYA-IDESRC-XXXXX.zip` file to download it. Inside is a rojo optimized copy of this REPO.
+3. Copy the folder named `'JoinTheRobloxGameToLinkYourAccount'`
+4. Paste `JoinTheRobloxGameToLinkYourAccount` into your roblox project in your IDE.
+
+And everything is done!
 
 ### Sync required code into roblox studio (using RBXM)
 
