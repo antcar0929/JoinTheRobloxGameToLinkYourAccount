@@ -17,11 +17,8 @@ The JoinTheRobloxGameToLinkYourAccount repo is a discord bot and a Roblox experi
 
 To install JoinTheRobloxGameToLinkYourAccount, you need to have the followings tools.
 
-- An IDE that can edit json files
+- An IDE that can edit json files (optional)
 - Roblox Studio
-- Node.js
-- NPM
-- Discord.js module
 - Rojo (optional)
 
 ### Sync required code into roblox studio (using rojo)
@@ -52,9 +49,4 @@ And everything is done!
 
 You've finnished the step!
 
-### Host the discord bot
 
-#### Heroku
-
-
-#### Local
