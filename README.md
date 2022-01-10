@@ -52,3 +52,9 @@ And everything is done!
 
 You've finnished the step!
 
+### Host the discord bot
+
+#### Heroku
+
+
+#### Local
