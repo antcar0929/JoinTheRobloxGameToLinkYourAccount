@@ -24,4 +24,10 @@ To install JoinTheRobloxGameToLinkYourAccount, you need to have the followings t
 - Discord.js module
 - Rojo (optional)
 
+### Sync required code into roblox studio (using rojo)
+
+| :exclamation:  We assume you have rojo installed on your IDE and you know how to use it. If you don't please [Use the RBXM method](###Sync required code into roblox studio (using RBXM))   |
+|-----------------------------------------|
+
+### Sync required code into roblox studio (using RBXM)
 
