@@ -36,7 +36,7 @@ To install JoinTheRobloxGameToLinkYourAccount, you need to have the followings t
 
 And everything is done!
 
-| :zap:        If the module still haven't shows up on the explorer in roblox studio, try running rojo serve if you haven't start the live sync server.   |
+| :zap:        If the module still haven't shows up on roblox studio, try running `rojo serve` if you haven't start the live sync server.   |
 |-----------------------------------------|
 
 ### Sync required code into roblox studio (using RBXM)
